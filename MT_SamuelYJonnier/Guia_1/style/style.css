@@ -1,0 +1,70 @@
+
+body{
+    background-color:lightskyblue;
+    background-position: center;
+ }
+ h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+     text-align: justify;
+ }
+ header{
+ width: 100%;
+     height:1100px;
+ background-image: url('../img/111.png');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ font-size: 40px;
+ }
+
+ .principal{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 30px;
+ color: black;
+ }
+
+ .galeria img{
+     width: 300px;
+     height: 300px;
+     margin: 10px auto;
+ }
+ 
+ div .galeria{
+ margin: 10px;
+ box-shadow: 2px 4px 8px lightseagreen;
+ width: 20%;
+ margin: 0px auto;
+ display: inline-block;
+ margin-left: 10px;
+ height: 500px;
+ margin: center;
+ }
+ 
+ .imagenes{
+     width: 100%;
+     height: 60%;
+     align-content: center;
+     margin:  auto;
+     
+ }
+
+ footer{
+     background-color:#DB8669;
+     color:black;
+     height:200px;
+     text-align: center;
+     padding: 20px;
+     font-size: 22px;
+
+ }
+ h4{
+     text-align: center;
+     background-repeat: no-repeat;
+     color:brown;
+     font-size: 90%;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ p{
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ 
